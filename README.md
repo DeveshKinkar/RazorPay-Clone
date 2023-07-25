@@ -1,2 +1,2 @@
 # RazorPay-Clone
-The RazorPay Clone is an project that aims to replicate the core functionalities and features.
+The RazorPay Clone is a project that aims to replicate the core functionalities and features.
