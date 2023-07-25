@@ -15,3 +15,4 @@ The primary tech stack may include:
 2.Styling: CSS (with possible pre-processors like SASS or LESS)
 3.Responsive Design: Flexbox or CSS Grid
 4.Tailwimd
+5.JavaScript
